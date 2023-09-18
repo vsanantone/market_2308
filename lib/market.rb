@@ -25,7 +25,4 @@ class Market
     results 
   end
 
-  def potential_revenue
-    require 'pry'; binding.pry
-  end
 end
